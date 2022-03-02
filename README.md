@@ -2,7 +2,8 @@
 The following tutorial will show you how to navigate ardupilot using set of waypoints and dynamically avoid the obstacles using 2D-Lidar
 
 ## Demo Video at https://youtu.be/L6Iughv_Os8
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/L6Iughv_Os8)
+
+![snapshot](https://user-images.githubusercontent.com/73148677/156347592-22785172-d9fe-454a-82e2-2cbc5b487204.png)
 
 
 ## Pre-requisites
