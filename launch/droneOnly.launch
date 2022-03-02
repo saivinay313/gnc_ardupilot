@@ -1,0 +1,8 @@
+<launch>
+  <!-- We resume the logic in empty_world.launch, changing only the name of the world to be launched -->
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="$(find gnc)/worlds/Mounted_Cam_lidar.world"/>
+    <!-- more default parameters can be changed here -->
+    <node name="rqt_gui" pkg="rqt_gui" type="rqt_gui"/>
+  </include>
+</launch>
