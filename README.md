@@ -10,11 +10,21 @@
 ### Clonning GNC repo
 
 >To the the repo into your workspace follwo these steps
-'''
-cd catkin_ws/src
-git clone 
 
-'''
+```
+cd catkin_ws/src
+git clone https://github.com/saivinay313/gnc_ardupilot.git
+
+```
+> Now Build your workspace
+```
+cd ~/catkin_ws
+catkin build
+
+
+```
+
+
 
 
 
